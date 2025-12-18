@@ -1,0 +1,9 @@
+/venv/
+.env
+.idea
+*.pyc
+*.log
+*.pot
+*.pyc
+.DS_Store
+__pycache__/
